@@ -5,15 +5,15 @@
       "name": "Shoyu Ramen",
       "restaurant": "Nonono",
       "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
-      "comment": "Delish. Can't go wrong with a classic!"
+      "rating": "10",
+      "comment": "Was great!"
     },
     {
       "id": 2,
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
-      "rating": 10,
+      "rating": "10",
       "comment": "My absolute fave!"
     },
     {
@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "New Ramen",
+      "image": "https://www.forkknifeswoon.com/wp-content/uploads/2014/10/simple-homemade-chicken-ramen-fork-knife-swoon-01.jpg",
+      "rating": "5",
+      "restaurant": "Some place",
+      "comment": "asdfasdf",
+      "id": 6
     }
   ]
 }
